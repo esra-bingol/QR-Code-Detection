@@ -1,0 +1,70 @@
+[
+  {
+    "image": "bbcqr.jpg",
+    "detections": [
+      {
+        "type": "QR",
+        "data": "https://www.bbc.co.uk/programmes/w3ct5ykn",
+        "polygon": [
+          [
+            365.0,
+            143.0
+          ],
+          [
+            834.0,
+            143.0
+          ],
+          [
+            835.73486328125,
+            613.7520141601562
+          ],
+          [
+            365.0,
+            613.0
+          ]
+        ],
+        "bbox": {
+          "x": 365.0,
+          "y": 143.0,
+          "w": 470.73486328125,
+          "h": 470.75201416015625
+        }
+      }
+    ],
+    "annotated_path": "qr_results/bbcqr_annotated.png"
+  },
+  {
+    "image": "sefas.jpg",
+    "detections": [
+      {
+        "type": "QR",
+        "data": "https://www.linkedin.com/in/sefabilicier?fromQR=1",
+        "polygon": [
+          [
+            12.0,
+            12.0
+          ],
+          [
+            466.9889831542969,
+            12.0
+          ],
+          [
+            467.9751892089844,
+            468.7675476074219
+          ],
+          [
+            12.000030517578125,
+            466.9977722167969
+          ]
+        ],
+        "bbox": {
+          "x": 12.0,
+          "y": 12.0,
+          "w": 455.9751892089844,
+          "h": 456.7675476074219
+        }
+      }
+    ],
+    "annotated_path": "qr_results/sefas_annotated.png"
+  }
+]
