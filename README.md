@@ -24,8 +24,6 @@ The system identifies the QR code in the image, decodes the embedded data (such 
 - **Python:** For the main backend logic and QR code processing  
 - **Jupyter Notebook:** For development, visualization, and testing
 
-<img width="1049" height="530" alt="Ekran Resmi 2025-10-17 09 23 26" src="https://github.com/user-attachments/assets/de153515-f6bc-4450-b33c-be33dcba4886" />
-
 
 ## Features
 
