@@ -8,6 +8,7 @@ It integrates Huawei OBS (Object Storage Service) and ModelArts for cloud-based 
 The main goal of this project is to automatically detect and decode QR codes from uploaded images.  
 When an image is uploaded to Huawei OBS, it can be processed through ModelArts or in a local Jupyter Notebook environment using OpenCV-based detection scripts.  
 The system identifies the QR code in the image, decodes the embedded data (such as URLs or text), and generates a preview with bounding boxes around detected areas.
+
 <img width="1049" height="542" alt="Ekran Resmi 2025-10-17 09 24 16" src="https://github.com/user-attachments/assets/4f81505c-797d-4692-b100-d3f108936ff2" />
 
 <img width="1049" height="679" alt="Ekran Resmi 2025-10-17 09 24 01" src="https://github.com/user-attachments/assets/0f7f09c0-54df-4986-a1fa-1c02193f50df" />
@@ -23,7 +24,8 @@ The system identifies the QR code in the image, decodes the embedded data (such 
 - **Python:** For the main backend logic and QR code processing  
 - **Jupyter Notebook:** For development, visualization, and testing
 
-  ![Uploading Ekran Resmi 2025-10-17 09.23.26.png…]()
+<img width="1049" height="530" alt="Ekran Resmi 2025-10-17 09 23 26" src="https://github.com/user-attachments/assets/de153515-f6bc-4450-b33c-be33dcba4886" />
+
 
 ## Features
 
